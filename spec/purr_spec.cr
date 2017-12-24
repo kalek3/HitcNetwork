@@ -4,6 +4,6 @@ describe Purr do
   # TODO: Write tests
 
   it "works" do
-    false.should eq(true)
+    false.should eq(true)x
   end
 end
